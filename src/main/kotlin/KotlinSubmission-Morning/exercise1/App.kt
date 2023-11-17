@@ -22,7 +22,7 @@ fun myProfile() {
     // Var boolean untuk menyimpan nilai status (single atau tidak)
     val status: Boolean = false
 
-    // Cetak setiap var saat fun myProfile di panggil
+    // Cetak setiap var saat func myProfile di panggil
     println("Nama Depan: $firstName")
     println("Nama Belakang: $lastName")
     println("Umur: $age")
